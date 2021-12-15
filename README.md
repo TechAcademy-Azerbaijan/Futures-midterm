@@ -58,7 +58,7 @@ Yeganə sətirdə onun rəqəmləri cəmi.
 N natural ədəd verilmişdir. Onun tərkibində heç olmazsa iki eyni rəqəmin olmasını təyin edin.
 
 ### Input
-Beşrəqəmli natural ədəd.
+N natural ədəd.
 
 ### Output
 Ədədin tərkibində heç olmazsa iki eyni rəqəm olarsa "YES", əks halda "NO" çap edin.
