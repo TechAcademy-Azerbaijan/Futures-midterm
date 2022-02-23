@@ -55,7 +55,7 @@ Yeganə sətirdə onun rəqəmləri cəmi.
 ## Task 3 🎯
 
 ### Heç olmazsa iki eyni rəqəm
-N natural ədəd verilmişdir. Onun tərkibində heç olmazsa iki eyni rəqəmin olmasını təyin edin.
+Beşrəqəmli natural ədəd verilmişdir. Onun tərkibində heç olmazsa iki eyni rəqəmin olmasını təyin edin.
 
 ### Input
 N natural ədəd.
